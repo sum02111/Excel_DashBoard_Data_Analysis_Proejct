@@ -3,7 +3,8 @@
 This project showcases an interactive Excel dashboard built using **Pivot Tables**, **Charts**, and **Slicers** to analyze data.
 
 ## 🔹 Dashboard Preview
-[![Click here to view all previews](dashboard_preview.png)](PREVIEWS.md)
+[![Click here to view all previews](dashboard_preview.png)](Preview_dashBoard.pdf)
+
 
 ## 📂 Files Included
 - `Excel_Dashboard_Data_Analysis.xlsx` – Interactive dashboard
