@@ -7,7 +7,19 @@ This project showcases an interactive Excel dashboard built using **Pivot Tables
 
 ## 📂 Files Included
 - [Excel_Dashboard_Data_Analysis.xlsx](Excel_Dashboard_Data_Analysis.xlsx) – Interactive dashboard  
-- [Preview_dashBoard.pdf](Preview_dashBoard.pdf) – Preview images of the dashboard  
+- [Preview_dashBoard.pdf](Preview_dashBoard.pdf) – Preview images of the dashboard
+
+## 🛠 What I Did in This Project
+
+- Data Understanding & Cleansing – Reviewed raw data, identified issues, and prepared it for analysis.
+- Data Transformation – Removed data quality issues using VLOOKUP for consistency and accuracy.
+- Feature Engineering – Added Age Group and Production Cost Per Unit columns for deeper insights.
+- Data Visualization – Created multiple charts:
+- 3D Column Chart
+- 3D Bar Chart
+- 3D Line Chart
+- 3D Pie Chart
+- Dashboard Creation – Designed an interactive Excel dashboard with slicers, charts, and KPIs for quick insights.
 
 ## 🚀 How to Use
 1. [Click the preview image above](Preview_dashBoard.pdf) or [download the Excel dashboard](Excel_Dashboard_Data_Analysis.xlsx)  
