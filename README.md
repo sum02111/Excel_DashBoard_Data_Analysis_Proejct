@@ -8,7 +8,7 @@ This project showcases an interactive Excel dashboard built using **Pivot Tables
 
 ## 📂 Files Included
 - `Excel_Dashboard_Data_Analysis.xlsx` – Interactive dashboard
-- Preview images are in `PREVIEWS.md`
+- Preview images are in `Preview_dashBoard.pdf`
 
 ## 🚀 How to Use
 1. Click the preview image above or download `Excel_Dashboard_Data_Analysis.xlsx`
